@@ -1,2 +1,3 @@
 # resource-data-storage
-A repository to store all the images, files, svg and more
+This repository is my personal collection of images, icons, animations, banners, etc... which are used by my other repositories.
+
